@@ -1,0 +1,59 @@
+/* [project]/public/fonts/calibre_1b1724e6.module.css [client] (css) */
+@font-face {
+  font-family: calibre;
+  src: url("../media/Calibre_Regular-s.p.2oa36-r6m17a0.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url("../media/Calibre_Medium-s.p.1y2u5ntwwbs1f.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url("../media/Calibre_Semibold-s.p.0yda6tacv5s5_.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url("../media/Calibre_Bold-s.p.0uanz353kap1e.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: calibre;
+  src: url("../media/Calibre_Black-s.p.02o9s_o7q--ic.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: calibre Fallback;
+  src: local(Arial);
+  ascent-override: 74.15%;
+  descent-override: 39.93%;
+  line-gap-override: 22.82%;
+  size-adjust: 87.66%;
+}
+
+.calibre_1b1724e6-module__-hADXq__className {
+  font-family: calibre, calibre Fallback;
+}
+
+.calibre_1b1724e6-module__-hADXq__variable {
+  --font-calibre: "calibre", "calibre Fallback";
+}
+
+/*# sourceMappingURL=public_fonts_calibre_1b1724e6_module_css_0uu1l2n9z-cys._.single.css.map*/

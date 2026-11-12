@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/QBS%20Accounting/Documents/websites/Build-Verse/components/Contact/mailer.js"],"sourcesContent":["import emailjs from \"@emailjs/browser\";\r\n\r\nconst mail = ({ name, email, message }) =>\r\n  emailjs.send(\r\n    process.env.NEXT_PUBLIC_SERVICE_ID,\r\n    process.env.NEXT_PUBLIC_TEMPLATE_ID,\r\n    { name, email, message },\r\n    {\r\n      publicKey: process.env.NEXT_PUBLIC_USER_ID,\r\n      limitRate: {\r\n        throttle: 10000, // 10s\r\n      },\r\n    }\r\n  );\r\n\r\nexport default mail;\r\n"],"names":["mail","name","email","message","send","process","env","NEXT_PUBLIC_SERVICE_ID","NEXT_PUBLIC_TEMPLATE_ID","publicKey","NEXT_PUBLIC_USER_ID","limitRate","throttle"],"mappings":";;;;AAAA;;AAEA,MAAMA,OAAO,CAAC,EAAEC,IAAI,EAAEC,KAAK,EAAEC,OAAO,EAAE,GACpC,uMAAO,CAACC,IAAI,CACVC,QAAQC,GAAG,CAACC,sBAAsB,EAClCF,QAAQC,GAAG,CAACE,uBAAuB,EACnC;QAAEP;QAAMC;QAAOC;IAAQ,GACvB;QACEM,WAAWJ,QAAQC,GAAG,CAACI,mBAAmB;QAC1CC,WAAW;YACTC,UAAU;QACZ;IACF;uCAGWZ"}}]
+}

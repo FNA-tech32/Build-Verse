@@ -1,0 +1,46 @@
+/* [project]/components/Footer/FooterBg/FooterBg.module.scss.module.css [client] (css) */
+.FooterBg-module-scss-module__lWafBa__top {
+  padding: 120px 0 270px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.FooterBg-module-scss-module__lWafBa__top .FooterBg-module-scss-module__lWafBa__background {
+  background: url("/footer/background.png") 50% 0 no-repeat;
+  width: 100%;
+  height: 266px;
+  position: absolute;
+  bottom: 0;
+}
+
+.FooterBg-module-scss-module__lWafBa__top .FooterBg-module-scss-module__lWafBa__background__one {
+  background: url("/footer/volkswagen.gif") center / 100% no-repeat;
+  width: 330px;
+  height: 105px;
+  animation: 22s linear infinite FooterBg-module-scss-module__lWafBa__first;
+  position: absolute;
+  bottom: 0;
+  left: 30%;
+}
+
+.FooterBg-module-scss-module__lWafBa__top .FooterBg-module-scss-module__lWafBa__background__two {
+  background: url("/footer/cyclist.webp") center / 100% no-repeat;
+  width: 88px;
+  height: 100px;
+  animation: 30s linear infinite FooterBg-module-scss-module__lWafBa__first;
+  position: absolute;
+  bottom: 0;
+  left: 38%;
+}
+
+@keyframes FooterBg-module-scss-module__lWafBa__first {
+  0% {
+    left: -25%;
+  }
+
+  100% {
+    left: 100%;
+  }
+}
+
+/*# sourceMappingURL=components_Footer_FooterBg_FooterBg_module_scss_module_css_0uu1l2n9z-cys._.single.css.map*/

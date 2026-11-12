@@ -1,0 +1,44 @@
+{
+  "pages": {
+    "/": [
+      "static/chunks/_0dlp4w4m2g1jw._.js",
+      "static/chunks/[root-of-the-server]__1tvu43hc065pc._.js",
+      "static/chunks/node_modules_next_dist_compiled_14o4i_-lh3yor._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_1lfhqgg4eob1m._.js",
+      "static/chunks/node_modules_next_dist_client_0donw1powhmh4._.js",
+      "static/chunks/node_modules_next_dist_0ujuspiax6e9x._.js",
+      "static/chunks/node_modules_gsap_02_lkgj2wiu3z._.js",
+      "static/chunks/node_modules_framer-motion_dist_es_0y1wesampa9np._.js",
+      "static/chunks/node_modules_20jd57coe9tul._.js",
+      "static/chunks/components_0wtv35oa9lorq._.css",
+      "static/chunks/pages_index_0t0nchrgo7swv._.js",
+      "static/chunks/turbopack-pages_index_0autwe-vs5lc6._.js"
+    ],
+    "/_app": [
+      "static/chunks/node_modules_next_dist_compiled_14ibvnakj0v0q._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_1vsvqbgbyql3b._.js",
+      "static/chunks/node_modules_next_dist_client_16lnmlosr3ca7._.js",
+      "static/chunks/node_modules_next_dist_0zk-zb1fqxtk9._.js",
+      "static/chunks/node_modules_next_0ur-v-xf64txp._.js",
+      "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7w2rk6e.js",
+      "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3xnfy6h.js",
+      "static/chunks/node_modules_react-dom_13voigl36lis-._.js",
+      "static/chunks/node_modules_1g3-_hf1k2b2z._.js",
+      "static/chunks/[root-of-the-server]__1xaklz0a7mfel._.js",
+      "static/chunks/[root-of-the-server]__14xzdgu4a-hqy._.css",
+      "static/chunks/pages__app_0du2_q-cjzmdk._.js",
+      "static/chunks/turbopack-pages__app_0859_7pepmwkb._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {},
+  "chunkLoadingGlobal": "TURBOPACK"
+}

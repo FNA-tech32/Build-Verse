@@ -1,0 +1,48 @@
+/* [project]/components/Hero/Hero.module.scss.module.css [client] (css) */
+.Hero-module-scss-module__rtoUUG__intro {
+  animation: .6s .1s backwards Hero-module-scss-module__rtoUUG__fadeAppear;
+}
+
+.Hero-module-scss-module__rtoUUG__heroName {
+  line-height: 1.5em;
+  animation: .8s .2s backwards Hero-module-scss-module__rtoUUG__fadeAppear;
+}
+
+.Hero-module-scss-module__rtoUUG__heroName .Hero-module-scss-module__rtoUUG__emphasize:after {
+  content: "";
+  background-image: linear-gradient(to right, #9f55ff, #7000ff);
+  border-radius: 1rem;
+  width: 100%;
+  height: .35rem;
+  animation: 1s cubic-bezier(.9, 0, .5, .9) .6s backwards Hero-module-scss-module__rtoUUG__growHorizontal;
+  position: absolute;
+  bottom: .7rem;
+  left: 0;
+  box-shadow: 0 0 1rem #7000ff;
+}
+
+@keyframes Hero-module-scss-module__rtoUUG__fadeAppear {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes Hero-module-scss-module__rtoUUG__growHorizontal {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 98%;
+  }
+}
+
+/*# sourceMappingURL=components_Hero_Hero_module_scss_module_css_0uu1l2n9z-cys._.single.css.map*/

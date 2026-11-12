@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///C:/Users/QBS Accounting/Documents/websites/Build-Verse/components/Profiles/Profiles.module.scss","turbopack:///C:/Users/QBS%20Accounting/Documents/websites/Build-Verse/components/Profiles/Profiles.module.scss"],"sourcesContent":[".profile {\r\n  display: inline-flex;\r\n  padding: 1.7rem 0 1rem 0;\r\n  gap: 1.5rem;\r\n\r\n  & > a {\r\n    &:hover,\r\n    &:focus {\r\n      filter: drop-shadow(0 0 1rem theme(\"colors.indigo.light\")) brightness(1.1);\r\n      svg {\r\n        stroke: theme(\"colors.indigo.light\");  \r\n      }\r\n    }\r\n  }\r\n}\r\n",".profile {\n  display: inline-flex;\n  padding: 1.7rem 0 1rem 0;\n  gap: 1.5rem;\n}\n.profile > a:hover, .profile > a:focus {\n  filter: drop-shadow(0 0 1rem theme(\"colors.indigo.light\")) brightness(1.1);\n}\n.profile > a:hover svg, .profile > a:focus svg {\n  stroke: theme(\"colors.indigo.light\");\n}"],"names":[],"mappings":"AAAA;;;;;;AAMI;;;;AAGE"}}]
+}

@@ -1,0 +1,3 @@
+module.exports=[45970,(a,b,c)=>{b.exports=a.x("@emailjs/browser-fc2245fe966c37a9",()=>require("@emailjs/browser-fc2245fe966c37a9"))},88981,a=>{"use strict";var b=a.i(45970);a.s(["default",0,({name:a,email:c,message:d})=>b.default.send(process.env.NEXT_PUBLIC_SERVICE_ID,process.env.NEXT_PUBLIC_TEMPLATE_ID,{name:a,email:c,message:d},{publicKey:process.env.NEXT_PUBLIC_USER_ID,limitRate:{throttle:1e4}})])}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__1f9av7l5kgs0s._.js.map

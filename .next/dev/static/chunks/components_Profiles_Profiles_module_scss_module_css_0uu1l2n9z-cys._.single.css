@@ -1,0 +1,16 @@
+/* [project]/components/Profiles/Profiles.module.scss.module.css [client] (css) */
+.Profiles-module-scss-module__RsVZ4a__profile {
+  gap: 1.5rem;
+  padding: 1.7rem 0 1rem;
+  display: inline-flex;
+}
+
+.Profiles-module-scss-module__RsVZ4a__profile > a:hover, .Profiles-module-scss-module__RsVZ4a__profile > a:focus {
+  filter: drop-shadow(0 0 1rem #9f55ff) brightness(1.1);
+}
+
+.Profiles-module-scss-module__RsVZ4a__profile > a:hover svg, .Profiles-module-scss-module__RsVZ4a__profile > a:focus svg {
+  stroke: #9f55ff;
+}
+
+/*# sourceMappingURL=components_Profiles_Profiles_module_scss_module_css_0uu1l2n9z-cys._.single.css.map*/

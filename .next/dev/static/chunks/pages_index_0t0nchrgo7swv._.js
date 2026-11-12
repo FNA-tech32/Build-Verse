@@ -1,0 +1,5 @@
+(globalThis["TURBOPACK_CHUNK_LISTS"] || (globalThis["TURBOPACK_CHUNK_LISTS"] = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: ["static/chunks/node_modules_lottie-web_build_player_lottie_light_0um4dqx2gj_iy.js","static/chunks/public_lottie_lottie_json_[json]_cjs_1hkv56uhr9334._.js","static/chunks/node_modules_0bce_csu22yzk._.js","static/chunks/_1rrvl1nhenb6d._.js","static/chunks/_0dlp4w4m2g1jw._.js","static/chunks/[root-of-the-server]__1tvu43hc065pc._.js","static/chunks/node_modules_next_dist_compiled_14o4i_-lh3yor._.js","static/chunks/node_modules_next_dist_shared_lib_1lfhqgg4eob1m._.js","static/chunks/node_modules_next_dist_client_0donw1powhmh4._.js","static/chunks/node_modules_next_dist_0ujuspiax6e9x._.js","static/chunks/node_modules_gsap_02_lkgj2wiu3z._.js","static/chunks/node_modules_framer-motion_dist_es_0y1wesampa9np._.js","static/chunks/node_modules_20jd57coe9tul._.js","static/chunks/components_0wtv35oa9lorq._.css"],
+    source: "entry"
+});

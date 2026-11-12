@@ -1,0 +1,15 @@
+{
+  "app": {},
+  "appUsingSizeAdjust": false,
+  "pages": {
+    "/_app": [
+      "static/media/Calibre_Regular-s.p.2oa36-r6m17a0.woff2",
+      "static/media/Calibre_Medium-s.p.1y2u5ntwwbs1f.woff2",
+      "static/media/Calibre_Semibold-s.p.0yda6tacv5s5_.woff2",
+      "static/media/Calibre_Bold-s.p.0uanz353kap1e.woff2",
+      "static/media/Calibre_Black-s.p.02o9s_o7q--ic.woff2",
+      "static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2"
+    ]
+  },
+  "pagesUsingSizeAdjust": true
+}

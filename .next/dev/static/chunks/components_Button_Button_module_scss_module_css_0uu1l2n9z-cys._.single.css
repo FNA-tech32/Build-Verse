@@ -1,0 +1,50 @@
+/* [project]/components/Button/Button.module.scss.module.css [client] (css) */
+.Button-module-scss-module__gW1A4G__primary__button {
+  font-family: var(--font-jetbrains-mono);
+  color: #fff;
+  background-image: linear-gradient(120deg, #0000 0% 50%, #8b31ff 50%);
+  background-size: 220%;
+  background-clip: padding-box;
+  border-radius: .4rem;
+  outline: 2px solid #7000ff;
+  align-items: center;
+  padding: .65rem 1.75rem;
+  font-size: .8rem;
+  font-weight: 800;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  display: inline-flex;
+  position: relative;
+}
+
+.Button-module-scss-module__gW1A4G__primary__button:hover, .Button-module-scss-module__gW1A4G__primary__button:active {
+  color: #fff;
+  background-position: 100%;
+  box-shadow: 0 0 1rem #7000ff;
+}
+
+.Button-module-scss-module__gW1A4G__secondary__button {
+  font-family: var(--font-jetbrains-mono);
+  color: #fff;
+  background-image: linear-gradient(120deg, #0000 0% 50%, #8b31ff 50%);
+  background-size: 220%;
+  background-clip: padding-box;
+  border-radius: .4rem;
+  outline: 2px solid #fff;
+  align-items: center;
+  padding: .65rem 1.75rem;
+  font-size: .8rem;
+  font-weight: 800;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  display: inline-flex;
+  position: relative;
+}
+
+.Button-module-scss-module__gW1A4G__secondary__button:hover, .Button-module-scss-module__gW1A4G__secondary__button:active {
+  color: #fff;
+  background-position: 100%;
+  box-shadow: 0 0 1rem #120e16;
+}
+
+/*# sourceMappingURL=components_Button_Button_module_scss_module_css_0uu1l2n9z-cys._.single.css.map*/
