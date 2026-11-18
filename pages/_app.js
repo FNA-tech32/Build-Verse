@@ -1,4 +1,4 @@
-import { calibre, jetbrains_mono } from "public/fonts";
+import { calibre, jetbrains_mono } from "../public/fonts";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Meta from "@/components/Meta/Meta";
 import "../styles/globals.scss";
